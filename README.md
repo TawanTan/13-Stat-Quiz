@@ -77,7 +77,10 @@ data &emsp; Standardize
 **สมมติว่าข้อมูลถูกกระจายอย่างปกติ (Normally distributed)**  
 * 13.จงหา Mean และ STD ของข้อมูลชุดนั้น &emsp; **Mean: 47277.11, STD: 14545.7683**  
 * 14.หา T-score สำหรับ 90% Confidence Interval ของข้อมูลชุดนั้น  
-[![Cal-t-90.png](https://i.postimg.cc/FKMXrzKN/Cal-t-90.png)](https://postimg.cc/f3fr5wXr)  
-* 15.หา 90% กับ 95% Confidence Interval 
-
+**เปิดตาราง t ที่ Degrees of Freedom = 10-1 = 9, α/2 = 0.05 ได้ T-score: 1.83**  
+* 15.หา 90% กับ 95% Confidence Interval  
+**90% Confidence Interval: 47277.11-(1.83x14545.77/√10) < μ < 47277.11+(1.83x14545.77/√10)**  
+**90% Confidence Interval: 38845.2063 < μ < 55709.0137**  
+**95% Confidence Interval: 47277.11-(2.266x14545.77/√10) < μ < 47277.11+(2.266x14545.77/√10)**  
+**90% Confidence Interval: 36871.7001 < μ < 57682.5199**  
 
