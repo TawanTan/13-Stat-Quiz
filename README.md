@@ -61,7 +61,7 @@ data &emsp; Standardize
 46.75	&ensp; 0.738350164  
  
 * 12.พล็อตกราฟจาก Standardized Dataset  
-[![Norm-Curve.png](https://i.postimg.cc/QNw23HHt/Norm-Curve.png)](https://postimg.cc/8sdKdkdQ)  
+[![Norm-Curve.png](https://i.postimg.cc/cLmkrH4f/Norm-Curve.png)](https://postimg.cc/PCCQ7dDq)
 
 
 
