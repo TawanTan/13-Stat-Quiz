@@ -25,7 +25,8 @@
 48.97	39.67	44.29	42.56	48.26	37.1  
 22.28	39.2	45.73	39.13	32.91	46.75  
 **สมมติว่าข้อมูลถูกกระจายอย่างปกติ (Normally distributed)**  
-* 10.จงหา Mean และ STD ของข้อมูลชุดนั้น &emsp; **Mean: 40.52633333**  
+* 10.จงหา Mean และ STD ของข้อมูลชุดนั้น  
+&emsp; **Mean: 40.52633333, STD: 8.429153221**  
 * 11.Standardize ข้อมูลชุดนั้น  
 data &emsp; Standardize  
 35.54	&ensp; -0.591558037  
@@ -58,9 +59,9 @@ data &emsp; Standardize
 39.13	&ensp; -0.165655232  
 32.91	&ensp; -0.903570398  
 46.75	&ensp; 0.738350164  
-
-
-
+ 
+* 12.พล็อตกราฟจาก Standardized Dataset  
+[![Norm-Curve.png](https://i.postimg.cc/QNw23HHt/Norm-Curve.png)](https://postimg.cc/8sdKdkdQ)  
 
 
 
