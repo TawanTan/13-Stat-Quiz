@@ -84,7 +84,7 @@ data &emsp; Standardize
 &emsp;**90% Confidence Interval: 47277.11-(1.83x14545.77/√10) < μ < 47277.11+(1.83x14545.77/√10)**  
 &emsp;**90% Confidence Interval: 38845.2063 < μ < 55709.0137**  
 &emsp;**95% Confidence Interval: 47277.11-(2.266x14545.77/√10) < μ < 47277.11+(2.266x14545.77/√10)**  
-&emsp;**90% Confidence Interval: 36871.7001 < μ < 57682.5199**  
+&emsp;**95% Confidence Interval: 36871.7001 < μ < 57682.5199**  
 
 **ตารางดังกล่าวมีข้อมูลอยู่ 10 ข้อมูล สมมติว่าเป็นเงินเดือนของหมอฟันในไทย**
 81469  
@@ -98,14 +98,14 @@ data &emsp; Standardize
 95481.35  
 95482.59  
 
-**สมมติว่าข้อมูลถูกกระจายอย่างปกติ (Normally distributed)**
+**สมมติว่าข้อมูลถูกกระจายอย่างปกติ (Normally distributed)**  
 **ให้ Population STD = 7900**  
-* 13. จงหา Mean ของข้อมูลชุดนั้น  
+* 13.จงหา Mean ของข้อมูลชุดนั้น  
 &emsp; **Mean: 87733.22**  
-14. หา Z-score สำหรับ 90% Confidence Interval ของข้อมูลชุดนั้น
-&emsp;**เปิดตาราง Z ที่ α/2 = 0.05 ได้ z-score: 1.645**
-15. หา 90% กับ 95% Confidence Interval
+* 14.หา Z-score สำหรับ 90% Confidence Interval ของข้อมูลชุดนั้น  
+&emsp;**เปิดตาราง Z ที่ α/2 = 0.05 ได้ z-score: 1.645**  
+* 15.หา 90% กับ 95% Confidence Interval  
 &emsp;**90% Confidence Interval: 87733.22-(1.645x7900/√10) < μ < 87733.22+(1.645x7900/√10)**  
 &emsp;**90% Confidence Interval: 83623.68207 < μ < 91842.75793**  
 &emsp;**95% Confidence Interval: 87733.22-(1.96x7900/√10) < μ < 87733.22+(1.96x7900/√10)**  
-&emsp;**90% Confidence Interval: 82836.74927 < μ < 92629.69073**  
+&emsp;**95% Confidence Interval: 82836.74927 < μ < 92629.69073**  
