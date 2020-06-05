@@ -63,5 +63,21 @@ data &emsp; Standardize
 * 12.พล็อตกราฟจาก Standardized Dataset  
 [![Norm-Curve.png](https://i.postimg.cc/cLmkrH4f/Norm-Curve.png)](https://postimg.cc/PCCQ7dDq)
 
+42690.64  
+42325.34  
+64971.4  
+35967.86  
+53694.28  
+43309.04  
+36018.4  
+29007.55  
+47506.85  
+77279.74  
+**ตารางดังกล่าวมีข้อมูลอยู่ 10 ข้อมูล สมมติว่าเป็นเงินเดือนของ Programmers ในไทย**  
+**สมมติว่าข้อมูลถูกกระจายอย่างปกติ (Normally distributed)**  
+* 13.จงหา Mean และ STD ของข้อมูลชุดนั้น &emsp; **Mean: 47277.11, STD: 14545.7683**  
+* 14.หา T-score สำหรับ 90% Confidence Interval ของข้อมูลชุดนั้น  
+[![Cal-t-90.png](https://i.postimg.cc/FKMXrzKN/Cal-t-90.png)](https://postimg.cc/f3fr5wXr)  
+* 15.หา 90% กับ 95% Confidence Interval 
 
 
